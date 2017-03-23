@@ -12,15 +12,10 @@ public class RemovingMember {
 
 
         ArrayListClass v4 = new ArrayListClass("v4","40");
-
         ArrayListClass v2 = new ArrayListClass("v2", "xyz");
-
         ArrayListClass v3 = new ArrayListClass("v3", "40");
-
         ArrayListClass v5 = new ArrayListClass("v5", "40");
-
         ArrayList<ArrayListClass> list = new ArrayList<>();
-
 
         list.add(v4);
         list.add(v2);
